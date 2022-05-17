@@ -12,4 +12,4 @@ The example uses Bootstrap progressbar, but you can adapt it to any other fronte
 
 You can check an online demo here.
 
-(Form in demo is linked to any action, so files are never uploaded)
+(Form in demo **is not linked to any action**, so **files are never uploaded**)
