@@ -1,4 +1,4 @@
-# html input filesize progressbar
+# Vanilla JS input filesize progressbar
 Vanilla JS to implement Bootstrap based progressbar to indicate file size quota on frontend, supporting both multiple file inputs and single file inputs with 'multiple' atribute.
 
 It scans the entire DOM to detect any combination of file inputs with or without 'multiple' atribute. It sums all filesizes and represents on a progressbar to easily detect if your form exceeds the allowed upload value that you set as a constant.
