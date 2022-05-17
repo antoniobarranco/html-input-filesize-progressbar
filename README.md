@@ -10,6 +10,6 @@ The example uses Bootstrap progressbar, but you can adapt it to any other fronte
 
 ## Demo
 
-You can check an [online demo here](https://antoniobarranco.github.io/html-input-filesize-progressbar/).
+You can check an [online demo here](https://antoniobarranco.github.io/vanilla-js-input-filesize-progressbar/).
 
 (Form in demo **is not linked to any action**, so **files are never uploaded**)
